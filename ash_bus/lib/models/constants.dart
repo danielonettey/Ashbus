@@ -29,7 +29,7 @@ const String ERRORTEXT = "Please make sure all the fields are completed";
 const String LOGIN_ERRORTEXT = "Incorrect email or pin";
 
 //MAPS API KEY
-String MAPS_KEY = "AIzaSyCyaLY9HCnfIJTagugwaCH9u4dz_DIGA6E";
+String MAPS_KEY = "";
 
 //Announcement Details
 const String ANNOUNCEMENT = "";
@@ -44,7 +44,7 @@ Uint8List LocationData;
 
 //Flutterwave Constants
 int amount = 3;
-String secretKeyFLutterWave = "FLWSECK-3593df68ded11b09e72898a4da063016-X";
+String secretKeyFLutterWave = "";
 
 //Map variables
 LatLngBounds latLngBounds;
